@@ -52,7 +52,7 @@ public class Time
 //			System.out.println("An unexpected Exception occurred");
 //		}
 		try {
-		 int totalSeconds = getTotalSeconds("10:10:10");
+		 int totalSeconds = getTotalSeconds("Github10:10:10");
 				  System.out.println("Total Seconds = "+totalSeconds);
 		}
 		catch(Exception e) {
